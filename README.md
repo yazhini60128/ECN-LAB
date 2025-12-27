@@ -1,4 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
+# Name: yazhini.d
+#ref no: 25015841
 
 **AIM:**
 
@@ -25,6 +27,12 @@
 **CIRCUIT DIAGRAM:**
 
 
+
+<img width="1040" height="1280" alt="image" src="https://github.com/user-attachments/assets/d71adfcc-c55b-4b87-b734-1b8bdac8b9fc" />
+<img width="1067" height="1280" alt="image" src="https://github.com/user-attachments/assets/35eb7fd6-6f71-49fc-8114-23422e833952" />
+<img width="809" height="1280" alt="image" src="https://github.com/user-attachments/assets/a709ada4-5fe0-458c-8772-0d8ee8475aa9" />
+<img width="615" height="1280" alt="image" src="https://github.com/user-attachments/assets/201f673e-2b4a-441e-b3be-b13d985f19ed" />
+<img width="826" height="1280" alt="image" src="https://github.com/user-attachments/assets/8eee4a24-7fee-4210-a156-d5c09de4558e" />
 
 
 
